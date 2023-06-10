@@ -1,2 +1,2 @@
-# User-Management-Application-MVC-JPA
+# Product-Management-Application-MVC-JPA
  
