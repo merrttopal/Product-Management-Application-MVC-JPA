@@ -23,9 +23,9 @@ When you run the app, you can see all products on the main page. You can add a n
   
 ## Used Technologies
 
-**İstemci:** Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap
+**Client:** Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap
 
-**Sunucu:** apache
+**Server:** apache
 
   
 ## Screenshots
