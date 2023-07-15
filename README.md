@@ -1,7 +1,7 @@
 
 # Product-Management-Application-MVC-JPA
 
-This project is a product management application. This application provides the functionality to list, add, update and delete products using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap technologies. It also allows products to be filtered by categories.
+A product management application, this application provides a secure login for product management and the functionality to list, add, update and delete products. The necessary component to search for products is built. In order to ensure security, Google Tink is used to ensure that session management and password operations are healthy. In this application, software was made in accordance with the layered architecture structure. Product images are uploaded with upload technique. Updating admin information can also be provided in the application.
 
 ## Follow the steps below to run the project:
 
@@ -22,10 +22,10 @@ When you run the app, you can see all products on the main page. You can add a n
 
   
 ## Used Technologies
+ - Java 8, Spring Boot, Spring MVC, Spring JPA, Maven, Thymeleaf, Mysql, Bootstrap
 
-**Client:** Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap
 
-**Server:** apache
+
 
   
 ## Screenshots
