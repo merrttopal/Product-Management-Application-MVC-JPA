@@ -1,7 +1,7 @@
 
 # Product-Management-Application-MVC-JPA
 
-This project is a product management application. This application provides the functionality to list, add, update and delete products using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap technologies. It also allows products to be filtered by categories and price ranges.
+This project is a product management application. This application provides the functionality to list, add, update and delete products using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap technologies. It also allows products to be filtered by categories.
 
 ## Follow the steps below to run the project:
 
